@@ -1,0 +1,39 @@
+.lista{
+    text-align: justify;
+}
+
+.lista ul{
+    padding: 15px;
+}
+
+.lista ul li{
+    list-style-type: decimal;
+    padding: 5px;
+}
+main{
+    padding: 12px;
+    margin: auto;
+}
+
+.card-header{
+    margin-bottom: 3px;
+}
+
+aside img{
+    border: 2px solid lightgray;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.card-img-top{
+    border: 2px solid lightgray;
+    padding: 3px; 
+    max-width: 300px;
+    margin: auto;
+}
+
+article{
+    padding: 10px;
+}
+.nav-link{
+    color: white !important;
+}
